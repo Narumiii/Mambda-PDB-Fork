@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PDB Parser", "PDB Parser\PDB Parser.vcxproj", "{BA6A0328-6CD1-40DC-8EDF-6F343FDDCD8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA6A0328-6CD1-40DC-8EDF-6F343FDDCD8C}.Debug|x64.ActiveCfg = Debug|x64
+		{BA6A0328-6CD1-40DC-8EDF-6F343FDDCD8C}.Debug|x64.Build.0 = Debug|x64
+		{BA6A0328-6CD1-40DC-8EDF-6F343FDDCD8C}.Debug|x86.ActiveCfg = Debug|Win32
+		{BA6A0328-6CD1-40DC-8EDF-6F343FDDCD8C}.Debug|x86.Build.0 = Debug|Win32
+		{BA6A0328-6CD1-40DC-8EDF-6F343FDDCD8C}.Release|x64.ActiveCfg = Release|x64
+		{BA6A0328-6CD1-40DC-8EDF-6F343FDDCD8C}.Release|x64.Build.0 = Release|x64
+		{BA6A0328-6CD1-40DC-8EDF-6F343FDDCD8C}.Release|x86.ActiveCfg = Release|Win32
+		{BA6A0328-6CD1-40DC-8EDF-6F343FDDCD8C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EB5A8BC-32C6-4333-91E3-BD50CE3B28A5}
+	EndGlobalSection
+EndGlobal
